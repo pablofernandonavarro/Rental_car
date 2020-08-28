@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AAAA_CurrentOSXVersion</key>
+	<string>macOS Catalina: 1675.129000</string>
+	<key>AAAA_DKDDocumentVersion</key>
+	<string>9.0.0 : Mobile Friendly</string>
+	<key>AAAA_EazyDrawVersion</key>
+	<string>9.8.0</string>
+	<key>AAAB_Build</key>
+	<string>3091</string>
+	<key>AAAB_Distribution</key>
+	<string>App Store</string>
+	<key>AAA_DKDQuicklookData</key>
+	<data>
+	JVBERi0xLjMKJcTl8uXrp/Og0MTGCjQgMCBvYmoKPDwgL0xlbmd0aCA1IDAgUiAvRmls
+	dGVyIC9GbGF0ZURlY29kZSA+PgpzdHJlYW0KeAFtmW2u7bYNRf97FB6BYX1aHkbGcJEg
+	Afp+pJ0/0LUo+9inDQr0Ph7RtERubm45f6+/rX+v+9bXv9a0/udn3fnfqGkb59rOtuWx
+	/vv39Q9+ZK3mtLU1jbL+Wsu4/13wjl+Xss9/5e3M68+azxELYebz2M7kw1vLLGFlrI7H
+	9NxzP9bczm2UUhafjV8wttRdmo/U/X4kItT9JEK8Ka817dt+rnMbYYz1Z5k71fEca+1u
+	8TJa7Px2XFutrhlkYDRj6Vkvayz3y/U8j1LWz+4+v9wnmAHG54gRT5Pzx5vqWNIgNQnr
+	K23tymLZ9nrt15Q/yf9Z/1zrWbfEUdOxtb7+WrR399O3wilH22peS0tb5URH3jprvW6l
+	ku3ad3a/lqPHCWsnwVc9ayZLjZRldoknyR6VtWK1CtUiQDl4J/+fiH9u2YilHttBjJIA
+	UqnnVnrUJNWl9LENqnfs/oirsc41V37meHvZrC0PEsgjJqqZ0nbERjPJIhI12NtSc90G
+	0KE+HiqDA55MeQvXMrbMYubga2UHvoPfZgY7Qc1FHP7cjn2cSyYLuZGzSh7G3sqaO4+V
+	xC8c3zcNPEAQNici3klbEJBUW3q2TlJmIZarEFEadtZBOt1DrF9xKg6XeMynU90OcMDq
+	IbzY9rTOSKQ/pyWd3dOYq0Zr0QtjmPGZjbwVi1M6Th2MZnYyDhwL4C7Zk1C32g422Q5T
+	ZwZn/Eb8SDDYKo3wOJNCPdnewOBwBudBcJ/TCHAQOCeySwISJSXJvDYDK10POhSo8QOY
+	TAVckLhxmkF+OXlFGWPrPkFKko+cu0mY9lJO2uCzWshT+HZ/1Lfxmpxpd/AOCQDlnNkW
+	+cHiHLns9oKuHnvJJZMYLE5E4bF2feknXoKVItMHoGLP0gupIJeuEtc8kpgAExVOC3GB
+	NxR0JeAEzqVy9g5NmKBuexbAxjZNX+SvtHg5UK42BqWqlIFqEx7XnY3tZONw2xWcFRCf
+	6fxawUOphce6oAHCpbN9tkDvCQzoE1JrIwiURPYLGifkgrftSh0muc7uJL/jCPIVe4Sp
+	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
+	vsnxuc8QypQxEyHQa4gqmbNT8hmqfgtSGrM/sUaPzLX3LDbzn0kNTXEoYaAvdbJcwbQU
+	hX9oy/JaJAvLe/9cU23W4IrLvmUFgAMwj+SAMh49QmJsAF4DrShkcFXIEFaZw6e+j8yx
+	HnNgxscGlBVx1EdTOpHmRzphqPKIQrJtsVBcIaRCqX30GGJNJQctGOZLxwHbeUZIX+TS
+	l9PVIa6lzHvkIVsjyY941I5+nb5zQ/eT7PUtSjkmSeNipS+4CjUrbmIWvLQueeLnSwmr
+	krVQIvxRQ5s8US5qVdhA9VLYqm8TzRTkjxZrTBy1edjK+0e5u/mPqO80Og3+kfw0DQnz
+	AWcgnWIW2IGaYsrieZPw1nFljFI9dxDvFXPt+4bCjiTm6etZ7qsNObHW970HeCDOOAzn
+	TwyAuDlVBmLIme69wrsV+0N/xAeUuHlpM9Rwo3nisgdPY8AOPOGX+dB3FBES9D5HxLjr
+	kTAonEBxE9QXaMhmcU/Et+1glyGoI3Cz61CA6Gyvl/EJCUg3vgKzZ0cAsOQv/0kiytNP
+	7wL2qSWBA0N6cDjPHOwdi5zTOamgjnfEtdhdIJSvlr8pAFL4Ul6PdA5dFquFbwAvzear
+	yX2c6qX3aErY79KCikoACJuQR06pgqDk2pyKb+kvickRXwI0KAT7I1r57xxGe/0ydtNy
+	P+PICFFFrc1SUCOLfpbE0PWln+Mjg+p6IpzahBKn4CpvMhYanh6LuwDbDht8odopFpa9
+	oaJnU3NNwEMz0zdQjK9v9aYQfU8fve8RUWazzryiH1x9LOp7FcQBEZLjtmP0fVb/52Zj
+	O1wlvvznL/L+b/8F9ZlFlgplbmRzdHJlYW0KZW5kb2JqCjUgMCBvYmoKMzE1MQplbmRv
+	YmoKMiAwIG9iago8PCAvVHlwZSAvUGFnZSAvUGFyZW50IDMgMCBSIC9SZXNvdXJjZXMg
+	NiAwIFIgL0NvbnRlbnRzIDQgMCBSIC9NZWRpYUJveCBbMCAwIDg0MS44OSA1OTUuMjhd
+	Cj4+CmVuZG9iago2IDAgb2JqCjw8IC9Qcm9jU2V0IFsgL1BERiBdID4+CmVuZG9iagoz
+	IDAgb2JqCjw8IC9UeXBlIC9QYWdlcyAvTWVkaWFCb3ggWzAgMCA4NDEuODkgNTk1LjI4
+	XSAvQ291bnQgMSAvS2lkcyBbIDIgMCBSIF0gPj4KZW5kb2JqCjcgMCBvYmoKPDwgL1R5
+	cGUgL0NhdGFsb2cgL1BhZ2VzIDMgMCBSID4+CmVuZG9iagoxIDAgb2JqCjw8IC9Qcm9k
+	dWNlciAo/v9cMDAwbVwwMDBhXDAwMGNcMDAwT1wwMDBTXDAwMCBcMDAwVlwwMDBlXDAw
+	MHJcMDAwc1wwMDBpXDAwMPNcMDAwblwwMDAgXDAwMDFcMDAwMFwwMDAuXDAwMDFcMDAw
+	NVwwMDAuXDAwMDRcMDAwIFwwMDBcKFwwMDBDXDAwMG9cMDAwbVwwMDBwXDAwMGlcMDAw
+	bFwwMDBhXDAwMGNcMDAwaVwwMDDzXDAwMG5cMDAwIFwwMDAxXDAwMDlcMDAwRVwwMDAy
+	XDAwMDhcMDAwN1wwMDBcKVwwMDAgXDAwMFFcMDAwdVwwMDBhXDAwMHJcMDAwdFwwMDB6
+	XDAwMCBcMDAwUFwwMDBEXDAwMEZcMDAwQ1wwMDBvXDAwMG5cMDAwdFwwMDBlXDAwMHhc
+	MDAwdCkKL0NyZWF0aW9uRGF0ZSAoRDoyMDIwMDUxNDEyNDQwMVowMCcwMCcpIC9Nb2RE
+	YXRlIChEOjIwMjAwNTE0MTI0NDAxWjAwJzAwJykKPj4KZW5kb2JqCnhyZWYKMCA4CjAw
+	MDAwMDAwMDAgNjU1MzUgZiAKMDAwMDAwMzU1NCAwMDAwMCBuIAowMDAwMDAzMjY3IDAw
+	MDAwIG4gCjAwMDAwMDM0MTYgMDAwMDAgbiAKMDAwMDAwMDAyMiAwMDAwMCBuIAowMDAw
+	MDAzMjQ3IDAwMDAwIG4gCjAwMDAwMDMzNzcgMDAwMDAgbiAKMDAwMDAwMzUwNSAwMDAw
+	MCBuIAp0cmFpbGVyCjw8IC9TaXplIDggL1Jvb3QgNyAwIFIgL0luZm8gMSAwIFIgL0lE
+	IFsgPDU5NWNhYjhlNjFlZTM4NzI1NTFiNTFjYmRlZThiNjZjPgo8NTk1Y2FiOGU2MWVl
+	Mzg3MjU1MWI1MWNiZGVlOGI2NmM+IF0gPj4Kc3RhcnR4cmVmCjM5NjcKJSVFT0YK
+	</data>
+	<key>ArchiveMatchStore</key>
+	<dict>
+		<key>Archive_Stores</key>
+		<array>
+			<dict>
+				<key>Class_Store</key>
+				<string>DKDLock</string>
+				<key>Match_Hashes</key>
+				<array>
+					<dict>
+						<key>BinIndex</key>
+						<string>14</string>
+						<key>BinMatches</key>
+						<array>
+							<dict/>
+						</array>
+					</dict>
+				</array>
+				<key>NHashBins</key>
+				<string>16</string>
+			</dict>
+			<dict>
+				<key>Class_Store</key>
+				<string>DKDGraphicStyle</string>
+				<key>Match_Hashes</key>
+				<array>
+					<dict>
+						<key>BinIndex</key>
+						<string>15</string>
+						<key>BinMatches</key>
+						<array>
+							<dict>
+								<key>DrawsFill</key>
+								<string>YES</string>
+								<key>DrawsLine</key>
+								<string>NO</string>
+								<key>FillRGB</key>
+								<dict>
+									<key>ColorSpace</key>
+									<string>NSCalibratedWhiteColorSpace</string>
+									<key>Opacity</key>
+									<string>1</string>
+									<key>White</key>
+									<string>0</string>
+								</dict>
+								<key>LineCapStyle</key>
+								<string>Butt</string>
+								<key>LineJoinStyle</key>
+								<string>Miter</string>
+								<key>LineWidth</key>
+								<string>1</string>
+								<key>MiterLimit</key>
+								<string>4</string>
+								<key>StrokePosition</key>
+								<string>Front</string>
+								<key>WindingRule</key>
+								<string>Non-Zero</string>
+							</dict>
+						</array>
+					</dict>
+				</array>
+				<key>NHashBins</key>
+				<string>16</string>
+			</dict>
+			<dict>
+				<key>Class_Store</key>
+				<string>DKDBezPathArchive</string>
+				<key>Match_Hashes</key>
+				<array>
+					<dict>
+						<key>BinIndex</key>
+						<string>0</string>
+						<key>BinMatches</key>
+						<array>
+							<dict>
+								<key>DKDScaledPath</key>
+								<string>M0.499504950495,0.768919465803 C0.614301430143,0.768919465803 0.721287128713,0.733508700931 0.82403740374,0.588628085795 C0.846225851361,0.556831033829 0.866502574253,0.509326264566 0.883718371837,0.448806151356
+C0.893949394939,0.413597733711 0.893949394939,0.38466208013 0.883718371837,0.347632537434 C0.856215621562,0.250708215297 0.8200220022,0.221772561716 0.785258525853,0.18575475516 C0.749064906491,0.147713476325 0.711276127613,0.142047753946 0.674147414741,0.123634156212
+C0.667271727173,0.120194253339 0.654125412541,0.133751517604 0.655610561056,0.091056252529 C0.656604181778,0.052669338855 0.665210061768,0.023006025131 0.675687568757,0.021853500607 C0.697689768977,0.022865236746 0.7200220022,0.016390125455 0.741694169417,0.030149736949
+C0.773707370737,0.050384459733 0.805665566557,0.071833265884 0.836468646865,0.119991906111 C0.865346534653,0.16511533792 0.898349834983,0.167341157426 0.927282728273,0.221165520032 C0.945247318685,0.256694295202 0.961611948836,0.30221978019 0.975797579758,0.356131121004
+C1,0.444354512343 0.994499449945,0.573856738163 0.965181518152,0.653176851477 C0.919856985699,0.77579927155 0.86903190319,0.849251315257 0.81397139714,0.892351274788 C0.681243124312,0.996155402671 0.54697469747,1 0.412431243124,0.993524888709
+C0.363259804443,0.992890617471 0.314182404021,0.977665193981 0.265676567657,0.947996762444 C0.196754675468,0.903480372319 0.127062706271,0.858154593282 0.063366336634,0.739983812222 C0.042021393861,0.701468942034 0.024202334851,0.640841777486 0.012101210121,0.565560501821
+C0.002145214521,0.503439902873 0,0.438284095508 0.015126512651,0.380210441117 C0.037463239363,0.293438604109 0.065000758896,0.227059086423 0.095544554455,0.186361796843 C0.166391639164,0.092472683124 0.237403740374,0 0.314851485149,0.019830028329
+C0.324532453245,0.022258195063 0.333278327833,0.017199514367 0.336578657866,0.059287737758 C0.339878987899,0.101375961149 0.328657865787,0.103601780656 0.323652365237,0.124038850668 C0.314411441144,0.161675435047 0.302255225523,0.161877782274 0.290649064906,0.162080129502
+C0.24778972358,0.165257286095 0.205088633882,0.182252077267 0.16303630363,0.212869283691 C0.139493949395,0.22885471469 0.11903190319,0.302711452853 0.104675467547,0.3808174828 C0.097249724972,0.421286928369 0.109185918592,0.446782679077 0.116611661166,0.46904087414
+C0.140127940116,0.539512913164 0.167276845125,0.591754675517 0.196424642464,0.622622420073 C0.262431243124,0.692836908134 0.329317931793,0.746661270741 0.398404840484,0.75232699312 C0.434378437844,0.755362201538 0.469911991199,0.774787535411 0.499504950495,0.768919465803
+z</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>BinIndex</key>
+						<string>2</string>
+						<key>BinMatches</key>
+						<array>
+							<dict>
+								<key>DKDScaledPath</key>
+								<string>M0.99897673784,0.379558705842 C1,0.45747113296 0.966232348728,0.5265805419 0.92141346613,0.592431690865 C0.8803855098,0.651709771216 0.831951698381,0.707164226049 0.776928849171,0.757859837659 C0.697387270619,0.832171030067 0.617163517293,0.906482222476 0.537621938741,0.980793414885
+C0.52568388021,0.992225906025 0.517156695545,1 0.500648066035,0.984566136961 C0.381472133161,0.872756373614 0.247288355277,0.772379101406 0.144075312095,0.649365496742 C0.010983013848,0.490625357265 0,0.299359780496 0.158605634764,0.141076940665
+C0.263251244969,0.03681262147 0.40309707347,0 0.560747663551,0.008117068709 C0.671328194283,0.013833314279 0.772221843236,0.044758202812 0.851899856743,0.111924088259 C0.939150010233,0.185892305933 0.997680605771,0.271978964216 0.99897673784,0.379558705842
+z M0.622893785388,0.410597919287 L0.622484480524,0.410597919287 C0.622484480524,0.379215731108 0.623917047548,0.347719218018 0.62207517566,0.316394192295 C0.621413713086,0.287545278171 0.60613341811,0.26029512547 0.580053209632,0.241454212873
+C0.522682311208,0.200125757403 0.471382768265,0.194295186921 0.401596288969,0.224819938265 C0.380107783614,0.234194580999 0.363599154103,0.23710986624 0.343611433249,0.222876414771 C0.324919844464,0.209557562593 0.30036155263,0.206527952441 0.276485435569,0.205727678061
+C0.196524545345,0.203003479186 0.128797975335,0.254634756149 0.124496896105,0.321595975763 C0.121495327103,0.37001257574 0.123268981513,0.418772150452 0.123200764036,0.467188750429 C0.123200764036,0.520692808963 0.123200764036,0.519835372128 0.187325192714,0.520406996685
+C0.210178047616,0.520406996685 0.218500579849,0.516691437064 0.217750187598,0.495655653367 C0.215771880756,0.439579284326 0.21693157787,0.383388590374 0.217340882734,0.327255058877 C0.217340882734,0.30290385275 0.233030902517,0.285926603407 0.257930281738,0.28083914485
+C0.284603315369,0.27512289928 0.308547649908,0.285640791128 0.322122927894,0.308162798674 C0.329626850399,0.320567051561 0.329831502831,0.33400022865 0.329967937786,0.347204755916 C0.330445460127,0.389104835944 0.329967937786,0.430947753515 0.329967937786,0.472962158454
+C0.329967937786,0.520635646507 0.329967937786,0.519549559849 0.388021010983,0.520635646507 C0.412988607681,0.521092946153 0.420560747664,0.515834000229 0.419673920458,0.494055104607 C0.417422743707,0.441751457643 0.418855310731,0.389390648222 0.418991745685,0.337029838802
+C0.418991745685,0.315193780725 0.423835186575,0.295015433863 0.451395047411,0.285297816394 C0.493280578484,0.270435577912 0.531345930827,0.29147136161 0.532710280374,0.331885217789 C0.534279282352,0.376586258146 0.533256020192,0.421344460958 0.533256020192,0.46610266377
+C0.533256020192,0.523779581571 0.533256020192,0.52326511947 0.601882802374,0.520292671773 C0.618186779453,0.519606722305 0.623234872774,0.515662512862 0.622757350433,0.502115010861 C0.622484480524,0.471533097062 0.622893785388,0.441065508174 0.622893785388,0.410655081742
+z M0.684767037315,0.418372013262 C0.684767037315,0.434529934073 0.684767037315,0.450668800732 0.684767037315,0.466788613239 C0.684767037315,0.521321595976 0.684767037315,0.520349834229 0.749710075721,0.520349834229
+C0.773176887919,0.520349834229 0.778293198718,0.513033039899 0.777883893854,0.495312678633 C0.776928849171,0.446896078656 0.777883893854,0.398422316223 0.777883893854,0.350005716246 C0.777883893854,0.322053275409 0.793505696159,0.304790213788 0.824681083294,0.294443809306
+C0.879255065148,0.276266148394 0.879255065148,0.275465874014 0.876321713623,0.224934263176 C0.876234125558,0.223982969097 0.876234125558,0.22302743447 0.876321713623,0.222076140391 C0.878163585511,0.207785526466 0.869499965891,0.203155367555 0.854082816017,0.205784840517
+C0.7726311481,0.219446667429 0.676717374991,0.273865325254 0.684767037315,0.36138104493 C0.686267821816,0.380301817766 0.684835254792,0.39939407797 0.684767037315,0.418372013262 z</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>BinIndex</key>
+						<string>6</string>
+						<key>BinMatches</key>
+						<array>
+							<dict>
+								<key>DKDScaledPath</key>
+								<string>M0.5,0.999603838366 C0.338174609596,0.999603838366 0.176349219192,0.999603838366 0.014523828789,0.999955982041 C0.002386924508,0.999955982041 0,0.997314904481 0.000040456348,0.984197552601 C0.000471990722,0.6613991842 0.000471990722,0.3386008158 0.000040456348,0.015802447399
+C0.000040456348,0.0025970596 0.002467837204,0 0.014523828789,0.000044017959 C0.338174609596,0.000484197553 0.661825390404,0.000484197553 0.985476171211,0.000044017959 C0.997613075492,0.000044017959 1,0.002685095519 0.999959543652,0.015802447399
+C0.999528009278,0.3386008158 0.999528009278,0.6613991842 0.999959543652,0.984197552601 C0.999959543652,0.9974029404 0.997532162796,1 0.985476171211,0.999955982041 C0.823650780808,0.999427766529 0.661825390404,0.999603838366 0.5,0.999603838366
+z M0.794077190711,0.407298177656 C0.79342988915,0.324456378202 0.758596973865,0.258121313496 0.706853305284,0.201382163923 C0.659681203981,0.149661061713 0.599765353184,0.125847345717 0.534185613723,0.121445549784
+C0.440690994417,0.11519499956 0.357755481835,0.143454529448 0.295695444615,0.22383132318 C0.201674892791,0.345496962761 0.208147908407,0.49278105467 0.287078242576,0.615062945682 C0.348248240149,0.709789594154 0.427866332228,0.787261202571 0.498584027834,0.873096223259
+C0.508334007606,0.884937054318 0.513431507404,0.878774540012 0.520511368234,0.870191037943 C0.567643013189,0.812967690818 0.615260134315,0.755744343692 0.662432235618,0.698520996567 C0.695035401565,0.659563663451 0.723745001085,0.61695021328 0.748078323489,0.571397130029
+C0.774658143863,0.520512369047 0.794643579578,0.467338674179 0.794077190711,0.407298177656 z M0.520673193624,0.946210053702 C0.498948134962,0.947486574522 0.472813334412,0.943304868386 0.446516708472,0.942644598996
+C0.395663079537,0.941412096135 0.346468160854,0.929703318954 0.297961000081,0.914429087068 C0.276522900088,0.907714218083 0.256554978207,0.896349714625 0.239258839712,0.881019455938 C0.233797232786,0.876177480412 0.225018205356,0.870631217537 0.230479812283,0.861827625671
+C0.240998462659,0.844836693371 0.256088680314,0.828770138216 0.273403997087,0.82529271943 C0.304333334573,0.818632351697 0.335739832296,0.814935359974 0.367262723521,0.814244211638 C0.37571810017,0.814244211638 0.38465895299,0.814244211638 0.391536532082,0.805968835285
+C0.395218059714,0.801567039352 0.403430698277,0.800994805881 0.401043773768,0.7918830883 C0.39865684926,0.782771370719 0.392183833643,0.783827801743 0.385063516466,0.783299586231 C0.328100979044,0.778897790298 0.275831377943,0.79910203363 0.223764058581,0.819526366758
+C0.201299206924,0.82837952307 0.181045460459,0.842819507946 0.164616878388,0.861695571793 C0.153491382798,0.87432872612 0.155069180354,0.888458491064 0.16239177927,0.902016022537 C0.171241204451,0.918422223198 0.184304732516,0.931656618688 0.199975726191,0.940091557355
+C0.246824176713,0.965798045603 0.298082369124,0.975658068492 0.348774172668,0.985342019544 C0.384210121335,0.991753680038 0.420061287012,0.995065625357 0.45598349381,0.995246060393 C0.555101545432,0.996654635091 0.653855489926,0.995774275905 0.751314831297,0.973237080729
+C0.791771178898,0.963861255392 0.829193300429,0.947882736156 0.862529330852,0.921207852804 C0.884133020471,0.903952812748 0.888138198883,0.875781318778 0.870337405939,0.856589488511 C0.859903925473,0.844861790373 0.84786779892,0.834958324099 0.834654907355,0.82722950964
+C0.813334412169,0.815344660622 0.789101059956,0.81481644511 0.767861477466,0.805220529976 C0.745205922809,0.794788273616 0.721700784853,0.790166387886 0.698155190549,0.785676556035 C0.682417671333,0.782683334801 0.665790112469,0.784135927458 0.649607573428,0.783871819702
+C0.641901404764,0.784122536147 0.635571811017,0.790575397157 0.634841006554,0.798925961792 C0.633789141516,0.80825776917 0.643417752245,0.805264547936 0.648474795695,0.806012853244 C0.675782830326,0.810062505502 0.703616797476,0.811295008363 0.730196617849,0.819526366758
+C0.755765029533,0.827449599437 0.782183024517,0.83374416762 0.802613480055,0.85474073422 C0.810300186099,0.862707984858 0.810300186099,0.868958535082 0.802613480055,0.876749713883 C0.789951322919,0.889915062923 0.775037866241,0.900249096275 0.758718342908,0.907166123779
+C0.683793187151,0.93850691082 0.60506513472,0.946122017783 0.520673193624,0.946210053702 z</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>BinIndex</key>
+						<string>10</string>
+						<key>BinMatches</key>
+						<array>
+							<dict>
+								<key>DKDScaledPath</key>
+								<string>M0.998098342842,0.656954561221 C0.998098342842,0.74939299341 0.996604183646,0.841831425598 0.998098342842,0.934443288241 C0.999049171421,0.975546305931 0.988997555012,0.987513007284 0.956533550666,0.989594172737
+C0.81988590057,0.998439125911 0.820021733225,1 0.81988590057,0.825182101977 C0.81988590057,0.689386056191 0.821787557729,0.553590010406 0.818799239337,0.417967395075 C0.816082586254,0.295352063822 0.740287965227,0.231703087062 0.656886715566,0.276621574749
+C0.602553653898,0.306278182449 0.59250203749,0.367325702393 0.592366204836,0.433576135969 C0.592366204836,0.592438432189 0.58924205379,0.751300728408 0.593724531377,0.909989594173 C0.595626188536,0.976066597294 0.58014126596,0.992022199098 0.530698179842,0.990634755463
+C0.41496875849,0.98733957683 0.415104591144,0.990634755463 0.415104591144,0.845993756504 C0.415104591144,0.718869233437 0.415104591144,0.591918140826 0.415104591144,0.464446756851 C0.415104591144,0.424210891433 0.414425427873,0.383454734651 0.399483835914,0.345993756504
+C0.37231730508,0.277662157475 0.324775876121,0.246444675685 0.27166530834,0.263093999306 C0.222086389568,0.278529309747 0.191252377071,0.330211585154 0.190844879109,0.403919528269 C0.190029883184,0.574228234478 0.187720728063,0.744710371141 0.191659875034,0.914845646896
+C0.19315403423,0.97866805411 0.176446617767,0.990461325009 0.131078511274,0.989941033646 C0.003395816354,0.988206729102 0.003124151046,0.989941033646 0.003395816354,0.82847728061 C0.003395816354,0.681234824835 0,0.533645508151 0.005976636783,0.386749913285
+C0.014254877995,0.183525439945 0.148943568113,0.026549817989 0.308204292312,0.034512660423 C0.355745721271,0.037807839057 0.404645476773,0.046826222685 0.441863624015,0.08654179674 C0.481662591687,0.129725979882 0.514534093996,0.121227887617 0.55732138006,0.092438432189
+C0.696278185276,0 0.798424341212,0.017516475893 0.912659603369,0.142906694416 C0.964589754969,0.200069879462 0.995015433324,0.282746634812 0.996332518337,0.370274020118 C1,0.465313909122 0.997147514262,0.561047519945 0.997147514262,0.656087408949
+z</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>BinIndex</key>
+						<string>13</string>
+						<key>BinMatches</key>
+						<array>
+							<dict>
+								<key>DKDScaledPath</key>
+								<string>M0.039690548268,0.677088948787 C0.039690548268,0.617430368374 0.047090480996,0.557412398922 0.039690548268,0.49739442947 C0,0.222461814915 0.472922973428,0.051212938005 0.874537504205,0.008265947889 C0.951900437269,0 0.993272788429,0.014555256065 0.984191052809,0.059478885894
+C0.983759181487,0.062469351055 0.983759181487,0.065473146699 0.984191052809,0.06846361186 C0.998318197107,0.227313566936 1,0.230188679245 0.729566094854,0.28697214735 C0.575512949882,0.319496855346 0.498486377397,0.37376460018 0.498822737975,0.461635220126
+C0.498822737975,0.613836477987 0.494786411033,0.767115902965 0.498822737975,0.91841868823 C0.500504540868,0.974123989218 0.475613858056,0.997124887691 0.359905819038,0.997124887691 C0.039354187689,0.997124887691 0.039354187689,1 0.039690548268,0.828751123091
+C0.039690548268,0.778436657682 0.039690548268,0.727882599581 0.039690548268,0.677088948787 z</string>
+							</dict>
+						</array>
+					</dict>
+				</array>
+				<key>NHashBins</key>
+				<string>16</string>
+			</dict>
+		</array>
+	</dict>
+	<key>DKDChangeTimeStamp</key>
+	<string>2020-05-04 22:27:20 +0000</string>
+	<key>DKDCreateTimeStamp</key>
+	<string>2020-04-29 12:41:34 +0000</string>
+	<key>DKDDisplayGraphicDetails</key>
+	<dict>
+		<key>AngleFormatDisplayDetails</key>
+		<dict>
+			<key>AngleDirection</key>
+			<string>Right</string>
+			<key>AngleForm</key>
+			<string>degrees</string>
+			<key>AngleRotation</key>
+			<string>Counter Clockwise</string>
+			<key>PrecisionAngles</key>
+			<string>2</string>
+		</dict>
+		<key>AnglesDisplaySpec</key>
+		<dict>
+			<key>FormDisplaySpec</key>
+			<string>Decimal</string>
+			<key>PrecisionDisplaySpec</key>
+			<string>2</string>
+			<key>TextAlignDisplaySpec</key>
+			<string>Left</string>
+			<key>UnitsDisplaySpec</key>
+			<string>Punctuation</string>
+		</dict>
+		<key>AreaForm</key>
+		<string>Natural</string>
+		<key>HelpTipDisplaySpec</key>
+		<dict>
+			<key>FormDisplaySpec</key>
+			<string>Decimal</string>
+			<key>PrecisionDisplaySpec</key>
+			<string>3</string>
+			<key>TextAlignDisplaySpec</key>
+			<string>Left</string>
+			<key>UnitsDisplaySpec</key>
+			<string>Abbreviate</string>
+		</dict>
+		<key>InspectingSpecIndex</key>
+		<string>0</string>
+		<key>LengthsDisplaySpec</key>
+		<dict>
+			<key>FormDisplaySpec</key>
+			<string>Decimal</string>
+			<key>PrecisionDisplaySpec</key>
+			<string>2</string>
+			<key>TextAlignDisplaySpec</key>
+			<string>Left</string>
+			<key>UnitsDisplaySpec</key>
+			<string>Full Units</string>
+		</dict>
+		<key>PercentDisplaySpec</key>
+		<dict>
+			<key>FormDisplaySpec</key>
+			<string>Decimal</string>
+			<key>PrecisionDisplaySpec</key>
+			<string>1</string>
+			<key>TextAlignDisplaySpec</key>
+			<string>Left</string>
+			<key>UnitsDisplaySpec</key>
+			<string>Punctuation</string>
+		</dict>
+		<key>PercentFormatDisplayDetails</key>
+		<dict>
+			<key>PercentForm</key>
+			<string>Percent</string>
+			<key>PrecisionPercents</key>
+			<string>1</string>
+		</dict>
+	</dict>
+	<key>DKDGrids</key>
+	<dict>
+		<key>DynamicSnapGrid</key>
+		<string>YES</string>
+		<key>GuidesLayer</key>
+		<string>NO</string>
+		<key>MajorGrid</key>
+		<dict>
+			<key>GridAboveGraphics</key>
+			<string>NO</string>
+			<key>GridRGB</key>
+			<dict>
+				<key>Blue</key>
+				<string>1</string>
+				<key>BluePlus</key>
+				<string>1</string>
+				<key>ColorSpace</key>
+				<string>NSCalibratedRGBColorSpace</string>
+				<key>ColorSpacePlus</key>
+				<string>DKDP3ColorSpace</string>
+				<key>Green</key>
+				<string>0.651063</string>
+				<key>GreenPlus</key>
+				<string>0.713725</string>
+				<key>Opacity</key>
+				<string>0.6</string>
+				<key>OpacityPlus</key>
+				<string>0.6</string>
+				<key>Red</key>
+				<string>0.432559</string>
+				<key>RedPlus</key>
+				<string>0.54902</string>
+			</dict>
+			<key>GridSpacingX</key>
+			<string>72</string>
+			<key>GridSpacingY</key>
+			<string>72</string>
+			<key>LinkGridToRulers</key>
+			<string>NO</string>
+			<key>PrintLineWidth</key>
+			<string>1</string>
+			<key>PrintsGrid</key>
+			<string>NO</string>
+			<key>ShowsGrid</key>
+			<string>NO</string>
+			<key>SnapsToGrid</key>
+			<string>NO</string>
+		</dict>
+		<key>MinorGrid</key>
+		<dict>
+			<key>GridAboveGraphics</key>
+			<string>NO</string>
+			<key>GridRGB</key>
+			<dict>
+				<key>Blue</key>
+				<string>0.848788</string>
+				<key>BluePlus</key>
+				<string>0.87451</string>
+				<key>ColorSpace</key>
+				<string>NSCalibratedRGBColorSpace</string>
+				<key>ColorSpacePlus</key>
+				<string>DKDP3ColorSpace</string>
+				<key>Green</key>
+				<string>0.828351</string>
+				<key>GreenPlus</key>
+				<string>0.854902</string>
+				<key>Opacity</key>
+				<string>1</string>
+				<key>OpacityPlus</key>
+				<string>1</string>
+				<key>Red</key>
+				<string>0.664186</string>
+				<key>RedPlus</key>
+				<string>0.745098</string>
+			</dict>
+			<key>GridSpacingX</key>
+			<string>18</string>
+			<key>GridSpacingY</key>
+			<string>18</string>
+			<key>LinkGridToRulers</key>
+			<string>NO</string>
+			<key>PrintLineWidth</key>
+			<string>0.5</string>
+			<key>PrintsGrid</key>
+			<string>NO</string>
+			<key>ShowsGrid</key>
+			<string>NO</string>
+			<key>SnapsToGrid</key>
+			<string>NO</string>
+		</dict>
+		<key>SnapDrawing</key>
+		<string>NO</string>
+		<key>SnapEnds</key>
+		<string>NO</string>
+		<key>SnapGuidelines</key>
+		<string>NO</string>
+		<key>SnapRadiusGrid</key>
+		<string>3</string>
+		<key>SnapSound</key>
+		<string>Ninguno</string>
+		<key>SoftSnap</key>
+		<string>NO</string>
+	</dict>
+	<key>DKDHideExtension</key>
+	<string>YES</string>
+	<key>DKDLayersList</key>
+	<array>
+		<dict>
+			<key>CloakLayerGuidelines</key>
+			<string>NO</string>
+			<key>CloakLayerVertices</key>
+			<string>NO</string>
+			<key>FullLayerScale</key>
+			<dict>
+				<key>ArchivePrecision</key>
+				<string>12</string>
+				<key>ScaleOriginX</key>
+				<string>0</string>
+				<key>ScaleOriginY</key>
+				<string>0</string>
+				<key>ScalePlusDown</key>
+				<string>YES</string>
+				<key>ScalePlusToRight</key>
+				<string>YES</string>
+				<key>ScaleScale</key>
+				<string>1</string>
+				<key>ScaleUnits</key>
+				<string>Centimeters</string>
+			</dict>
+			<key>GraphicsList</key>
+			<array>
+				<dict>
+					<key>Class</key>
+					<string>DKDBezier</string>
+					<key>DKDLockInfo</key>
+					<string>14</string>
+					<key>GraphicID</key>
+					<string>2AECBBAC</string>
+					<key>GraphicStyle</key>
+					<string>15</string>
+					<key>PathArchive</key>
+					<dict>
+						<key>DKDScaleRect</key>
+						<string>{{297.91, 185.19}, {247.18, 227.18}}</string>
+						<key>index</key>
+						<string>6</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>DKDBezier</string>
+					<key>DKDLockInfo</key>
+					<string>14</string>
+					<key>GraphicID</key>
+					<string>3BECBBAC</string>
+					<key>GraphicStyle</key>
+					<string>15</string>
+					<key>PathArchive</key>
+					<dict>
+						<key>DKDScaleRect</key>
+						<string>{{347.75, 211.32}, {146.59, 174.94}}</string>
+						<key>index</key>
+						<string>2</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>DKDBezier</string>
+					<key>DKDLockInfo</key>
+					<string>14</string>
+					<key>GraphicID</key>
+					<string>CBECBBAC</string>
+					<key>GraphicStyle</key>
+					<string>15</string>
+					<key>PathArchive</key>
+					<dict>
+						<key>DKDScaleRect</key>
+						<string>{{335.8, 362.15}, {181.8, 49.42}}</string>
+						<key>index</key>
+						<string>0</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>DKDBezier</string>
+					<key>DKDLockInfo</key>
+					<string>14</string>
+					<key>GraphicID</key>
+					<string>3CECBBAC</string>
+					<key>GraphicStyle</key>
+					<string>15</string>
+					<key>PathArchive</key>
+					<dict>
+						<key>DKDScaleRect</key>
+						<string>{{365.58, 245.28}, {73.62, 57.66}}</string>
+						<key>index</key>
+						<string>10</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Class</key>
+					<string>DKDBezier</string>
+					<key>DKDLockInfo</key>
+					<string>14</string>
+					<key>GraphicID</key>
+					<string>8CECBBAC</string>
+					<key>GraphicStyle</key>
+					<string>15</string>
+					<key>PathArchive</key>
+					<dict>
+						<key>DKDScaleRect</key>
+						<string>{{446.95, 246.83}, {29.73, 55.65}}</string>
+						<key>index</key>
+						<string>13</string>
+					</dict>
+				</dict>
+			</array>
+			<key>HideDimensions</key>
+			<string>NO</string>
+			<key>LayerColorMod</key>
+			<dict>
+				<key>DKDOnColorMod</key>
+				<string>NO</string>
+				<key>DKDOpacityColorMod</key>
+				<string>0.5</string>
+				<key>DKDOutlineColorMod</key>
+				<string>NO</string>
+				<key>DKDTintColorColorMod</key>
+				<dict>
+					<key>ColorSpace</key>
+					<string>NSCalibratedWhiteColorSpace</string>
+					<key>Opacity</key>
+					<string>1</string>
+					<key>White</key>
+					<string>0.5</string>
+				</dict>
+				<key>DKDTintFractionColorMod</key>
+				<string>0.5</string>
+			</dict>
+			<key>LayerLock</key>
+			<string>NO</string>
+			<key>LayerName</key>
+			<string>Paper</string>
+			<key>LayerState</key>
+			<string>Active</string>
+			<key>OutlineLayer</key>
+			<string>NO</string>
+		</dict>
+	</array>
+	<key>DKDPagesSpec</key>
+	<dict>
+		<key>BackgroundDisplay</key>
+		<string>Background</string>
+		<key>CanvasBorder</key>
+		<dict>
+			<key>Blue</key>
+			<string>0.45904</string>
+			<key>BluePlus</key>
+			<string>0.533333</string>
+			<key>ColorSpace</key>
+			<string>NSCalibratedRGBColorSpace</string>
+			<key>ColorSpacePlus</key>
+			<string>DKDsRgbColorSpace</string>
+			<key>Green</key>
+			<string>0.458671</string>
+			<key>GreenPlus</key>
+			<string>0.533333</string>
+			<key>Opacity</key>
+			<string>1</string>
+			<key>OpacityPlus</key>
+			<string>1</string>
+			<key>Red</key>
+			<string>0.475002</string>
+			<key>RedPlus</key>
+			<string>0.54902</string>
+		</dict>
+		<key>CanvasColor</key>
+		<dict>
+			<key>Catalog</key>
+			<string>System</string>
+			<key>Catalog-Color</key>
+			<string>windowBackgroundColor</string>
+		</dict>
+		<key>CanvasMargin</key>
+		<string>0</string>
+		<key>DetailsDrawerWidth</key>
+		<string>260</string>
+		<key>DisplayAttributesBar</key>
+		<string>YES</string>
+		<key>DisplayRulers</key>
+		<string>NO</string>
+		<key>FullScreen</key>
+		<string>NO</string>
+		<key>FullScreenCanvasMargin</key>
+		<string>141.73228</string>
+		<key>LayersDrawerWidth</key>
+		<string>266</string>
+		<key>NonFullScreenCanvasMargin</key>
+		<string>0</string>
+		<key>NumberAcrossFirst</key>
+		<string>NO</string>
+		<key>PagesAcross</key>
+		<string>1</string>
+		<key>PagesDown</key>
+		<string>1</string>
+		<key>PagesSpecBackgroundRGB</key>
+		<dict>
+			<key>ColorSpace</key>
+			<string>NSCalibratedWhiteColorSpace</string>
+			<key>Opacity</key>
+			<string>1</string>
+			<key>White</key>
+			<string>1</string>
+		</dict>
+		<key>PagesSpecPrintBackground</key>
+		<string>NO</string>
+		<key>ShowPageBreaks</key>
+		<string>NO</string>
+		<key>SizeChecker</key>
+		<string>8</string>
+		<key>aCheckerColor</key>
+		<dict>
+			<key>Blue</key>
+			<string>0.926348</string>
+			<key>BluePlus</key>
+			<string>0.941176</string>
+			<key>ColorSpace</key>
+			<string>NSCalibratedRGBColorSpace</string>
+			<key>ColorSpacePlus</key>
+			<string>DKDsRgbColorSpace</string>
+			<key>Green</key>
+			<string>0.926333</string>
+			<key>GreenPlus</key>
+			<string>0.941176</string>
+			<key>Opacity</key>
+			<string>1</string>
+			<key>OpacityPlus</key>
+			<string>1</string>
+			<key>Red</key>
+			<string>0.92636</string>
+			<key>RedPlus</key>
+			<string>0.941176</string>
+		</dict>
+		<key>bCheckerColor</key>
+		<dict>
+			<key>Blue</key>
+			<string>0.737155</string>
+			<key>BluePlus</key>
+			<string>0.784314</string>
+			<key>ColorSpace</key>
+			<string>NSCalibratedRGBColorSpace</string>
+			<key>ColorSpacePlus</key>
+			<string>DKDsRgbColorSpace</string>
+			<key>Green</key>
+			<string>0.737143</string>
+			<key>GreenPlus</key>
+			<string>0.784314</string>
+			<key>Opacity</key>
+			<string>1</string>
+			<key>OpacityPlus</key>
+			<string>1</string>
+			<key>Red</key>
+			<string>0.737165</string>
+			<key>RedPlus</key>
+			<string>0.784314</string>
+		</dict>
+	</dict>
+	<key>DKDPrintInfo</key>
+	<dict>
+		<key>BottomMargin</key>
+		<string>18</string>
+		<key>Copies</key>
+		<string>1</string>
+		<key>FallBackPaperSizeHeight</key>
+		<string>595.28</string>
+		<key>FallBackPaperSizeWidth</key>
+		<string>841.89</string>
+		<key>FirstPage</key>
+		<string>1</string>
+		<key>HorizontalPagination</key>
+		<string>2</string>
+		<key>HorizontallyCentered</key>
+		<string>YES</string>
+		<key>LastPage</key>
+		<string>-1</string>
+		<key>LeftMargin</key>
+		<string>18</string>
+		<key>MustCollate</key>
+		<string>YES</string>
+		<key>Orientation</key>
+		<string>1</string>
+		<key>PaperName</key>
+		<string>Personalizado</string>
+		<key>PaperSizeHeight</key>
+		<string>595.28</string>
+		<key>PaperSizeWidth</key>
+		<string>841.89</string>
+		<key>PreviewPageNumber</key>
+		<string>1</string>
+		<key>PrintAllPages</key>
+		<string>YES</string>
+		<key>PrintJobDisposition</key>
+		<string>NSPrintSpoolJob</string>
+		<key>PrintSavePath</key>
+		<string></string>
+		<key>PrintScalingFactor</key>
+		<string>1</string>
+		<key>PrinterName</key>
+		<string>Electronic Prepress</string>
+		<key>ReversePageOrder</key>
+		<string>NO</string>
+		<key>RightMargin</key>
+		<string>18</string>
+		<key>TopMargin</key>
+		<string>18</string>
+		<key>VerticalPagination</key>
+		<string>0</string>
+		<key>VerticallyCentered</key>
+		<string>YES</string>
+		<key>XPrintMirror</key>
+		<string>NO</string>
+		<key>YPrintMirror</key>
+		<string>NO</string>
+	</dict>
+	<key>DKDSaveTimeStamp</key>
+	<string>2020-05-14 12:44:01 +0000</string>
+	<key>DKDTablet</key>
+	<dict>
+		<key>BrushDynamic</key>
+		<string>NO</string>
+		<key>BrushFit</key>
+		<string>6</string>
+		<key>PenMax</key>
+		<string>25</string>
+		<key>PenMin</key>
+		<string>0.5</string>
+		<key>PenPressureFactor</key>
+		<string>0.5</string>
+		<key>PencilDynamic</key>
+		<string>NO</string>
+		<key>PencilFit</key>
+		<string>7</string>
+	</dict>
+	<key>DKDTimeFormat</key>
+	<dict>
+		<key>Field 0 Include</key>
+		<string>Weekday</string>
+		<key>Field 0 Type</key>
+		<string>Long</string>
+		<key>Field 1 Include</key>
+		<string>Month</string>
+		<key>Field 1 Type</key>
+		<string>Short</string>
+		<key>Field 2 Include</key>
+		<string>Day</string>
+		<key>Field 2 Type</key>
+		<string>Number</string>
+		<key>Field 3 Include</key>
+		<string>Year</string>
+		<key>Field 3 Type</key>
+		<string>Long</string>
+		<key>Include GMT</key>
+		<string>NO</string>
+		<key>Include Title</key>
+		<string>YES</string>
+		<key>IncludeDate</key>
+		<string>YES</string>
+		<key>IncludeTime</key>
+		<string>YES</string>
+		<key>Seperator 0</key>
+		<string> - </string>
+		<key>Seperator 1</key>
+		<string>. </string>
+		<key>Seperator 2</key>
+		<string>, </string>
+		<key>Seperator 3</key>
+		<string>  </string>
+		<key>Time Seperator</key>
+		<string>:</string>
+		<key>TimeAfterDate</key>
+		<string>YES</string>
+		<key>Twelve Hour Clock</key>
+		<string>YES</string>
+		<key>Used Once</key>
+		<string>YES</string>
+	</dict>
+	<key>DKDWindowState</key>
+	<dict>
+		<key>CursorMode</key>
+		<string>Nothing</string>
+		<key>DocCenter</key>
+		<string>{299.960807601, 300.141176471}</string>
+		<key>DocumentFileName</key>
+		<string>/Users/Horacioroz/Library/Mobile Documents/CJQ27X7XH6~com~dekorra~EazyDraw/Documents/Sin título.ezdraw</string>
+		<key>DrawersOnMainView</key>
+		<string>YES</string>
+		<key>GDetailsLayersDrawerEdgePreference</key>
+		<string>Auto</string>
+		<key>GraphicDetailsOpen</key>
+		<string>NO</string>
+		<key>LayerActiveAbove</key>
+		<string>NO</string>
+		<key>LayerOpen</key>
+		<string>NO</string>
+		<key>LayerSelect</key>
+		<string>Active Only</string>
+		<key>LayersDrawerEdgePreference</key>
+		<string>Auto</string>
+		<key>OutlineDrawing</key>
+		<string>NO</string>
+		<key>WindowLocation</key>
+		<string>108 281 435 482 0 0 1280 777 </string>
+		<key>ZoomPercent</key>
+		<string>100.000000</string>
+	</dict>
+	<key>GroupEdit</key>
+	<string>Fixed</string>
+	<key>NumberColorsToListInContextMenu</key>
+	<string>12</string>
+	<key>NumberPairColorsToListInContextMenu</key>
+	<string>6</string>
+</dict>
+</plist>
